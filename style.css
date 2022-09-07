@@ -1,0 +1,35 @@
+.fondo{
+    background: green;
+    
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    height: 280px;
+    width: 300px;
+    background: white;
+    padding: 20PX;
+    border-radius: 10PX ;
+    position: relative;
+    padding-top: 120px;
+    font-size: 80px;
+    
+    
+}
+
+.cards{
+    position:absolute;
+    top: 20px;
+    left: 20px;
+
+    
+    font-size: 80px;
+}
+
+.bottom{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    font-size: 80px;
+}
